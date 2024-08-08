@@ -123,6 +123,6 @@ button5.addEventListener("click", function () {
     inputValue5_2.includes(".") &&
     inputValue5_3.length > 5
   ) {
-    window.location.href = `${window.location.href}/second-page.html`;
+    window.location.href = `${window.location.href}second-page.html`;
   }
 });
